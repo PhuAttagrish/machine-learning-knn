@@ -18,6 +18,5 @@ machine-learning-knn
     │   └── _00_analysis_doc.pdf
     └── viz_accuracy
         ├── scaled_features_acc.pdf
-        └── unscaled_features_acc.pdf
-        
-      ```
+        └── unscaled_features_acc.pdf. 
+        ```
